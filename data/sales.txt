@@ -3,6 +3,14 @@ outfitter kinetic
 	"Kinetic Turret (APFSDS-DU)"
 	"HEAT-FS Shell"
 	"APFSDS-DU Shell"
-	
+
+outfitter "kinetic ammo"
+
 planet Everything
 	outfitter kinetic
+
+planet Valhalla
+	outfitter kinetic
+
+planet Geminus
+	outfitter "kinetic ammo"
