@@ -1,0 +1,8 @@
+outfitter kinetic
+	"Kinetic Turret (HEAT-FS)"
+	"Kinetic Turret (APFSDS-DU)"
+	"HEAT-FS Shell"
+	"APFSDS-DU Shell"
+	
+planet Everything
+	outfitter kinetic
