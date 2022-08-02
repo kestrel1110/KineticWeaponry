@@ -83,7 +83,19 @@ outfit "APFSDS-DU Shell"
 	category "Ammunition"
 	cost 3800
 	thumbnail "outfit/APFSDS_shell"
-	"mass" .5
+	"mass" .25
 	"dart capacity" -1
 	description `A subcaliber projectile, fired with inserts that enable it to fit into a larger shell, thus putting a massive amount of energy into a relatively small projectile, propelling it forwards at speeds exceeding 1800 m/s, or above Mach 5. The only downside to these shells is the low shield damage output, as the simply make a tiny hole in the shields that usually can immediately regenerate. This is ammunition for a Kinetic Turret.`
 		`	A common joke about these shells is that humanity has simply "gone back to throwing arrows at each other."`
+		
+outfit "APFSDS Shell Rack"
+	category "Ammunition"
+	cost 1280
+	"dart capacity" 16
+	"outfit space" -4
+	
+outfit "HEATFS Shell Rack"
+	category "Ammunition"
+	cost 1280
+	"dart capacity" 16
+	"outfit space" -4
