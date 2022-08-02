@@ -53,20 +53,3 @@ outfitter "Ammo South"
 	"APFSDS-DU Shell"
 	"HEATFS Shell Rack"
 	"APFSDS Shell Rack"
-
-planet Everything
-	outfitter kinetic
-
-planet Valhalla
-	outfitter kinetic
-
-planet Geminus
-	outfitter "kinetic ammo"
-planet Luna
-	outfitter "kinetic ammo"
-planet Farpoint
-	outfitter "kinetic ammo"
-planet Zug
-	outfitter "kinetic ammo"
-planet Wayfarer
-	outfitter "kinetic ammo"
